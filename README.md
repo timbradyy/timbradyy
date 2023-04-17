@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi there 👋</h1>
-<p>My name is Tim Brady and I'm a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Tim Brady and I'm a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
+- 🌱 I’m currently learning: Javascript, HTML and CSS 
+- 💬 Ask me about: Ken Carson
+- 📫 How to reach me: Instagram, Snapchat
+- ⚡ Fun fact: I listen to Ken Carson everyday
+</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
